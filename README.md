@@ -3,12 +3,17 @@ Simple UDP app that always responds with 'sup'
 
 ## Usage
 
-server
+**server**
 ```
 $ PORT=8080 go run main.go
 ```
 
-client
+Example output
+```
+sup is running...
+```
+
+**client**
 ```
 $ go run client/main.go
 ```
