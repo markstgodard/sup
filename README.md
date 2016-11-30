@@ -1,4 +1,4 @@
-# sup
+# sup 👋
 Simple UDP app that always responds with 'sup'
 
 ## Usage
