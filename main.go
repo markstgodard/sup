@@ -7,7 +7,7 @@ import (
 )
 
 //
-// Simple UDP server that always response with 'sup'
+// Simple UDP server that always responds with 'sup'
 //
 func main() {
 	port := os.Getenv("PORT")
